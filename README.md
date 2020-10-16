@@ -8,7 +8,7 @@ Our code uses Python 3.7.
 
 To run the program please do the following:
 
-- Make sure you have ffmpeg cli tool installed. For more information: https://ffmpeg.org/
+- Make sure you have fmpeg CLI tool installed. For more information: https://ffmpeg.org/
 - Cd into the project's folder.
 - Run freeze_frame_validator.py with the video url as arguments, for example:
   ```
