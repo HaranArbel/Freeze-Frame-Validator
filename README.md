@@ -10,9 +10,9 @@ To run the program please do the following:
 
 - Make sure you have fmpeg CLI tool installed. For more information: https://ffmpeg.org/
 - Cd into the project's folder.
-- Run freeze_frame_validator.py with the video url as arguments, for example:
+- Run freeze_frame_validator.py with the videos urls as arguments, for example:
   ```
-  $ python3 freeze_frame_validator.py "https://storage.googleapis.com/hiring_process_data/freeze_frame_input_a.mp4"
+  $ python3 freeze_frame_validator.py "https://storage.googleapis.com/hiring_process_data/freeze_frame_input_a.mp4" "https://storage.googleapis.com/hiring_process_data/freeze_frame_input_b.mp4"
   ```
   - 
   
