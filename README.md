@@ -1,9 +1,11 @@
 # Freeze-Frame-Validator
 This program downloads a set of video files from a given set of urls, runs a filter on each one and exposes its output into a useful format for consumption by other APIs.
 
-Our code uses Python 3.7.
 
 ## Development Setup
+
+Our code uses Python 3.7.
+
 To run the program please do the following:
 
 - Make sure you have ffmpeg cli tool installed. For more information: https://ffmpeg.org/
