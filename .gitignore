@@ -3,6 +3,8 @@ __pycache__
 vent
 env
 .idea
+videos/
+freeze.txt
 
 # OS generated files #
 ######################
