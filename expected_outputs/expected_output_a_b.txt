@@ -1,0 +1,53 @@
+{
+    "videos": [
+        {
+            "longest_valid_period": 4.94,
+            "valid_video_percentage": 53.1,
+            "valid_periods": [
+                [
+                    0,
+                    4.3
+                ],
+                [
+                    6.37,
+                    7.44
+                ],
+                [
+                    10.46,
+                    12.08
+                ],
+                [
+                    14.28,
+                    17.78
+                ],
+                [
+                    24.12,
+                    29.06
+                ]
+            ]
+        },
+        {
+            "longest_valid_period": 9.31,
+            "valid_video_percentage": 67.52,
+            "valid_periods": [
+                [
+                    0,
+                    4.3
+                ],
+                [
+                    6.37,
+                    7.44
+                ],
+                [
+                    10.64,
+                    19.95
+                ],
+                [
+                    24.12,
+                    29.06
+                ]
+            ]
+        }
+    ],
+    "all_videos_freeze_frame_synced": false
+}

@@ -5,6 +5,7 @@ env
 .idea
 videos/
 freeze.txt
+expected.*
 
 # OS generated files #
 ######################
